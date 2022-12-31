@@ -11,7 +11,7 @@ For example, if the user gives you:
 you will transform it to : `["Hello", "World", "in", "a", "frame"]`
 that will get displayed as:
 
-![stars and words](images/a.png)
+![stars and words](a.png)
 
 
 # Hint
